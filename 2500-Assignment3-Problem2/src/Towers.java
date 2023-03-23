@@ -52,7 +52,7 @@ public static void main(String[] args)
       return;
     }
     
-    while (n != 0) //if the input is zero, program stops!
+    while (n != 0) //if the input is NOT zero, program will continue to next line, if it is zero then 
     {
     	if (n < 1)
     	{
