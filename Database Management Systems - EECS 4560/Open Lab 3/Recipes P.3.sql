@@ -1,0 +1,2 @@
+
+-- “Find the ingredients that use the same default measurement amount.” --USE RecipesExample;SELECT DISTINCT Ingredients.IngredientName, Measurements.MeasurementDescriptionFROM IngredientsINNER JOIN Measurements ON Ingredients.MeasureAmountID = Measurements.MeasureAmountIDORDER BY Measurements.MeasurementDescription

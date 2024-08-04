@@ -1,0 +1,2 @@
+
+-- “List customers and the dates they placed an order, sorted in order date sequence.” --USE SalesOrdersExample;SELECT Customers.CustomerID, Customers.CustFirstName, Customers.CustLastName, Orders.OrderDateFROM Customers INNER JOIN Orders ON Customers.CustomerID = Orders.CustomerIDORDER BY OrderDate;

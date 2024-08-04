@@ -1,0 +1,2 @@
+
+-- “Display agents and the engagement dates they booked, sorted by booking start date.” --USE EntertainmentAgencyExample;SELECT Agents.AgtFirstName, Agents.AgtLastName, Engagements.StartDate, Engagements.EndDateFROM AgentsINNER JOIN Engagements ON Agents.AgentID = Engagements.AgentIDORDER BY Engagements.StartDate ASC

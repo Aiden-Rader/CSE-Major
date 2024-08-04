@@ -1,0 +1,2 @@
+
+-- “Show me customers and employees who live in the same city.” -USE SalesOrdersExample;SELECT Customers.CustFirstName, Customers.CustLastName, Customers.CustCity, Employees.EmpFirstName, Employees.EmpLastName, Employees.EmpCity FROM CustomersINNER JOIN Employees ON Customers.CustCity = Employees.EmpCity;

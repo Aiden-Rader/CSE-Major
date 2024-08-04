@@ -1,0 +1,2 @@
+
+--  “List customers and the entertainers they booked.” --USE EntertainmentAgencyExample;SELECT Customers.CustFirstName, Customers.CustLastName, Entertainers.EntStageNameFROM CustomersINNER JOIN Engagements ON Customers.CustomerID = Engagements.CustomerIDINNER JOIN Entertainers ON Engagements.EntertainerID = Entertainers.EntertainerID;

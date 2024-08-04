@@ -1,0 +1,2 @@
+
+--  “Show me customers and employees who have the same last name.” --USE SalesOrdersExample;SELECT Customers.CustFirstName, Customers.CustLastName, Employees.EmpFirstName, Employees.EmpLastNameFROM CustomersINNER JOIN Employees ON Customers.CustLastName = Employees.EmpLastName;

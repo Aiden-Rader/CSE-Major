@@ -1,0 +1,2 @@
+
+-- “Show me an alphabetized list of products with a retail price of $125.00 or more.” --USE SalesOrdersExample;SELECT ProductName, RetailPriceFROM ProductsWHERE RetailPrice >= '125.00'ORDER BY ProductName ASC;
