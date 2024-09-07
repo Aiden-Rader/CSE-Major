@@ -11,7 +11,7 @@ Welcome to my coding coursework portfolio! This repository contains a collection
 
 ## Overview
 
-This repository showcases the work I’ve done from the start of my university journey to the present. Here, you'll find projects written in Java, C++, SQL, and upcoming additions in Python, SAS, and R. The aim is to document my learning progress and to provide a resource for anyone interested in my work or learning from my code.
+This repository showcases the work I’ve done from the start of my university journey to the present. Here, you'll find projects written in Java, C++, SQL. The aim is to document my learning progress and to provide a resource for anyone interested in my work or learning from my code.
 
 ## Languages, Technologies, and Tools
 
@@ -21,18 +21,11 @@ This repository showcases the work I’ve done from the start of my university j
 - **C++**: Implementations of algorithms, data structures, and system-level programming exercises.
 - **SQL**: Database queries, schema design, and complex queries to handle relational databases.
 
-### Upcoming Additions
-
-- **Python**: Projects integrating/learning about Python.
-- **SAS**: Data manipulation and statistical analysis using SAS.
-- **R**: Data analysis and visualization tasks using R.
-
 ### Tools/Software Used
 - Eclipse
 - Microsoft Visual Studio
+- Microsoft Visual Studio Code
 - SQL Server Management Studio
-- SAS (Coming Soon)
-- R (Coming Soon)
 
 ## Project Structure
 
@@ -43,8 +36,6 @@ The repository is organized as follows:
 - **/Linear Data Structures**: Assignments and projects focused on linear data structures like arrays, linked lists, stacks, and queues.
 - **/Non-Linear Data Structures**: Projects involving trees, graphs, and other non-linear data structures.
 - **/Database Management Systems**: SQL projects involving database queries, schema design, and management.
-- **/Introduction to Computer Science & Engineering Technology**: (Coming soon) Basics of Python through projects and scripts.
-- **/Data Science I**: (Coming soon) SAS programs and data analysis examples.
 
 ## Contact
 
