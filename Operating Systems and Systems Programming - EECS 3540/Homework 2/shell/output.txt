@@ -1,0 +1,5 @@
+This is the argument: ls
+input.txt
+osh
+output.txt
+shell.c
