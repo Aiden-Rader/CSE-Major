@@ -24,6 +24,8 @@
 hs_err_pid*
 replay_pid*
 
+# Random PDF Files I dont care about
+*.pdf
 
 # OS Kernel Files
 *.mod*
